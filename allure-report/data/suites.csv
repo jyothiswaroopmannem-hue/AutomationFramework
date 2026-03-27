@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9419","Add employee with valid details","","2026-03-26","passed","2026-03-26","","Employee Management","Add employee with valid details",""
+"","8627","Add employee with valid details","","2026-03-26","passed","2026-03-26","","Employee Management","Add employee with valid details",""
+"","5331","Login with valid credentials from Excel","","2026-03-26","passed","2026-03-26","","Employee Management with Excel data","Login with valid credentials from Excel",""
+"","9263","Add employee with valid details","","2026-03-26","passed","2026-03-26","","Employee Management","Add employee with valid details",""
+"","6628","Login with valid credentials","","2026-03-26","passed","2026-03-26","","Employee Management","Login with valid credentials",""
+"","9005","Add employee with valid details","","2026-03-26","passed","2026-03-26","","Employee Management","Add employee with valid details",""
+"","8225","Add employee with valid details from Excel","","2026-03-26","passed","2026-03-26","","Employee Management with Excel data","Add employee with valid details from Excel",""
